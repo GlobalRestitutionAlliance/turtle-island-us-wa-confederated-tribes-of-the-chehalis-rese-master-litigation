@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=WA+CONFEDERATED+TRIBES+OF+THE+CHEHALIS+RESE",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=WA+CONFEDERATED+TRIBES+OF+THE+CHEHALIS+RESE",
+  "title": "Federal Register - WA CONFEDERATED TRIBES OF THE CHEHALIS RESE",
+  "fetched_at": "2026-11-23T17:47:49.293687Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 104858,
+  "sha256": "1b70673b4363e3fe01b38572570be64c337d4b51953d235327f83754c6328561",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
